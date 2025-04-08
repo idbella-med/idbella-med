@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am , a 22-year-old student at 1337 in Khouribga, focused on mastering C programming. Passionate about tech, I am developing my skills to excel in the digital<br>
+I am , a student at 1337 in Khouribga<br>
 
 
 ## 🌐 Socials:
