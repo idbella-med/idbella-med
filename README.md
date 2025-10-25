@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Mohamed Idbellaali<br><br>💡 Student at **1337 (42 Network)**  <br>💻 Passionate about **Full Stack Development** and **software engineering**  <br>🚀 Currently learning **JavaScript**, **React**, and **Node.js**  <br>⚙️ Strong foundation in **C** and **C++**  <br><br>📘 Always curious, always building.<br>
+## 👋 Hi, I'm Mohamed Idbellaali<br><br>💡 Student at **1337 (42 Network)**  <br>💻 Passionate about **Full Stack Development** and **software engineering**  <br>🚀 Currently learning **JavaScript**, **React**, and **Node.js**  <br>⚙️ Strong foundation in **C** and **C++**  <br><br>
 
 
 ## 🌐 Socials:
